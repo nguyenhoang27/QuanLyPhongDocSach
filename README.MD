@@ -7,6 +7,8 @@
 
 Tiếp theo thì clone repository về
 
+Cài đặt SAP https://www.sap.com/index.html
+
 ### 2. Test xem quá trình clone có lỗi không
 Mở solution lên
 

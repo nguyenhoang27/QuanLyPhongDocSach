@@ -1,0 +1,4 @@
+<config>
+	<database>thuvien.db</database>
+	<secret>secret</secret>
+</config>

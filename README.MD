@@ -18,7 +18,7 @@ Chuột phải vô project InitDatabase rồi chọn Set as StartUp Project
 
 Xong rồi thì nhấn F5 để chạy.
 
-Sau đó chuột phải vào project QuanLiThuVien rồi chọn Set as StartUp Project
+Sau đó chuột phải vào project QuanLiPhongDocSach rồi chọn Set as StartUp Project
 
 ## II. Các thư viện
 
